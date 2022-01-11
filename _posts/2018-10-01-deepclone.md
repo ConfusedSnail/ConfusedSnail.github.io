@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 深拷贝
-tags: 深拷贝
+tags: JavaScript
 math: true
 date: 2018-10-03 15:32 +0800
 ---
