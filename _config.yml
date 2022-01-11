@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: returnjoyli
+description: 前端小学生，JavaScript从业者
 url: https://ConfusedSnail.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: returnjoyli
   url: https://github.com/ConfusedSnail/
   email: joylitanli@gmail.com
