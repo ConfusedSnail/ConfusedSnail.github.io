@@ -1,10 +1,9 @@
---
+---
 layout: post
 title: 2022 年如何成为一名优秀的大前端 Leader
 tags: 成长之路
 date: 2022-01-10 15:32 +0800
-description:有人调侃 Leader 的作用就是不让产品 🐕 骚扰到干活的攻城狮 🦁-😂 引用，没有招黑的意思。优秀的前端 Leader 要学会适当的拒绝，学会说 No。并不是做的越多越好，而是让团队做的少价值高才好。这背后其实是当下互联网技术发展到一定阶段，出现了专业壁垒的问题。需要更加了解业务，了解技术的专业人士来制定方案。
---
+---
 
 <p style="text-align:center;font-weight:bold;">
     2022年如何成为一名优秀的大前端Leader
@@ -416,12 +415,3 @@ description:有人调侃 Leader 的作用就是不让产品 🐕 骚扰到干活
         </section>
     </li>
 </ul>
-<p style="text-indent: 2em;">
-    关于本文
-</p>
-<p style="text-indent: 2em;">
-    <span style="">来源：扫地盲僧</span>
-</p>
-<p style="text-indent: 2em;">
-    <span style="">https://juejin.cn/post/7034419410706104356</span>
-</p>
