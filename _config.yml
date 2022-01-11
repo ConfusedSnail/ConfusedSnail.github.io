@@ -1,7 +1,7 @@
 # Setup
 title: Not Pure Poole
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+url: https://ConfusedSnail.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -33,10 +33,9 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: joyli
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/ConfusedSnail
 google_site_verification: xxxxx
 lang: en
 
@@ -55,5 +54,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  url: https://github.com/ConfusedSnail/
+  email: joylitanli@gmail.com
