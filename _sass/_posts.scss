@@ -7,7 +7,7 @@
   border-bottom: 1px solid var(--border-color);
   margin-bottom: var(--spacer-3);
   p{
-    width: 600px;
+    width: 70vw;
     overflow:hidden;
     text-overflow:ellipsis;
     display:-webkit-box;
@@ -27,6 +27,11 @@
 
   li + li {
     margin-top: .25rem;
+  }
+  img{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
   }
 }
 
